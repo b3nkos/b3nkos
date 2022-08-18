@@ -5,7 +5,7 @@
 ### I'm a software developer with more than five years of experience.
 
 - 🔭 I’m currently working on Java/Spring
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Angular
 - 📫 You can reach me on [Twitter](https://twitter.com/b3nkos/) and [Linkedin](https://www.linkedin.com/in/b3nkos/)
 - :school: I'm a software engineer student
 - 🏋️ I'm passionate about natural bodybuilding
