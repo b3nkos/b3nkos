@@ -2,7 +2,7 @@
 
 ## My name is Cristian Martinez
 
-### I'm a software developer with more than five years of experience.
+### I am a software developer with ten years of experience.
 
 - 🔭 I’m currently working on Java/Spring Boot
 - 🌱 I’m currently learning Kotlin
